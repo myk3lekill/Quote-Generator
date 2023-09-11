@@ -8,4 +8,4 @@ git push -u origin main
 <-- upload files to the repository -->
 git add .
 git commit -m 'second commit'
-git push origin master
+git push origin main
