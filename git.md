@@ -9,3 +9,6 @@ git push -u origin main
 git add .
 git commit -m 'second commit'
 git push origin main
+
+<-- Remove saved url -->
+git remote set-url origin https://github.com/myk3lekill/template-test.git
