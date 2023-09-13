@@ -5,12 +5,12 @@ git branch -M main
 git remote add origin https://github.com/myk3lekill/smartbrain.git
 git push -u origin main
 
-<-- upload files to existing repository -->
+<-- upload files to an existing repository -->
 git remote add origin https://github.com/myk3lekill/Picture-In_Picture.git
 git branch -M main
 git push -u origin main
 
-<-- upload files to existing repository -->
+<-- upload files -->
 git add .
 git commit -m 'second commit'
 git push origin main
